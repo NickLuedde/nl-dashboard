@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    background:#2C2C2C;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .wrapper {
+    display: block;
+    margin: 5em auto;
+    border: 1px solid#4E6E7D;
+    width: 600px;
+    height: 350px;
+    position: relative;
+    background: #DCC7AA;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+  }
+
+.Header {
+    box-sizing: border-box;
+    width: 100%;
+    height: 6%;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color:#393939;
+    color: #ce9e62;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+ 
+    
+  }
+
+  .Host {
+    position: absolute;
+    left: 50px;
+    box-sizing: border-box;
+    width: 15%;
+    height: 6%;
+    display: left;
+    justify-content: none;
+    padding: 1em;
+    border-color: #4E6E7D;
+    margin-bottom: 2em;
+    margin-top: 1.5%;
+    background-color:#1d1e22;
+    color: #ce9e62;
+    font-size: small;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+  
+  }
+
+  .Footer {
+    position: absolute;
+
+    width: 100%;
+    height: 5%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    color:#ce9e62;
+    background-color:#393939;
+    clear: both;
+
+  }
+  .Footer_Text {
+    float: right;
+    padding-right: 2%;
+
+    
+   
+  }
+  
